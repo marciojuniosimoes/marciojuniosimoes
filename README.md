@@ -21,7 +21,10 @@ Eu sou um desenvolvedor Front-End, Belo Horizonte - MG
   <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
   FIGMA
    </div>
+   <br/>
+   
+   
 - 🌱 Atuamente eu estudado mais a fundo Reactjs.
 - 👯 Procuro meu primeira experiência na área como DEV Jr.
 - ⚡ Sou fã de cinema, podemos ficar horas falando sobre....
--->
+
