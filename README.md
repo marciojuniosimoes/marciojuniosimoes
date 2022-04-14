@@ -6,9 +6,7 @@ Eu sou um desenvolvedor Front-End, Belo Horizonte - MG
   <a href='https://www.linkedin.com/in/marciojuniosimoes/'>
     <img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
-    <a href='https://www.linkedin.com/in/marciojuniosimoes/'>
-    <img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-  </a>
+  
 </div>
 
 
