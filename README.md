@@ -39,16 +39,5 @@ Eu sou um desenvolvedor Front-End e Web Designer, Belo Horizonte - MG
 - ⚡ Sou fã de cinema, podemos ficar horas falando sobre....
   
   ![Snake animation](https://github.com/marciojuniosimoes/marciojuniosimoes/blob/output/github-contribution-grid-snake.svg)
-    # Snake Animation
-  - uses: Platane/snk@master
-    id: snake-gif
-    with:
-      github_user_name: marciojuniosimoes
-      svg_out_path: dist/github-contribution-grid-snake.svg
-  - uses: crazy-max/ghaction-github-pages@v2.1.3
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
