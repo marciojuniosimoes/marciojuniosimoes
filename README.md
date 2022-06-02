@@ -11,7 +11,7 @@ Eu sou um desenvolvedor Front-End, Belo Horizonte - MG
 
 
 
-- 🔭 Eu atuo como Desenvolvedor FrontEnd Jr.
+- 🔭 Eu atuo como Desenvolvedor FrontEnd Jr e Web Designer.
 - ⚙️ Eu trabalho com :  
 <br/>
 <div>
@@ -20,11 +20,12 @@ Eu sou um desenvolvedor Front-End, Belo Horizonte - MG
   <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
   FIGMA
+  WORDPRESS
    </div>
    <br/>
    
    
 - 🌱 Atuamente eu estudado mais a fundo Reactjs.
-- 👯 Procuro meu primeira experiência na área como DEV Jr.
+- 👯 Procuro trabalho na área como DEV FRONTEND JR OU WEB DESIGN.
 - ⚡ Sou fã de cinema, podemos ficar horas falando sobre....
 
